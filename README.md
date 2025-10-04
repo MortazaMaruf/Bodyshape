@@ -7,4 +7,4 @@ Landing page are the finish with responsive layout.
 And fitness_plan layout finish.
 subscribe_plan section done.
 Trainer_plan section done.
-subscribe_plan problem slove.
+Subscribe_plan problem slove.
